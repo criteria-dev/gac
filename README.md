@@ -48,7 +48,7 @@ That's it! Review the generated message and confirm with `y`.
 
 ## Key Features
 
-### **33+ Supported Providers**
+### **35+ Supported Providers**
 
 - **Anthropic** • **Azure OpenAI** • **Cerebras** • **ChatGPT (OAuth)** • **Chutes.ai** • **Claude Code (OAuth)**
 - **Crof.ai** • **DeepInfra** • **DeepSeek** • **Fireworks** • **Gemini** • **GitHub Copilot (OAuth)** • **Groq**

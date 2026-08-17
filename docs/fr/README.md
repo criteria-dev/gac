@@ -48,7 +48,7 @@ C'est tout ! Vérifiez le message généré et confirmez avec `y`.
 
 ## Fonctionnalités principales
 
-### **33+ Fournisseurs pris en charge**
+### **35+ Fournisseurs pris en charge**
 
 - **Anthropic** • **Azure OpenAI** • **Cerebras** • **ChatGPT (OAuth)** • **Chutes.ai** • **Claude Code (OAuth)**
 - **Crof.ai** • **DeepInfra** • **DeepSeek** • **Fireworks** • **Gemini** • **GitHub Copilot (OAuth)** • **Groq**

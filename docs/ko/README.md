@@ -48,7 +48,7 @@ uvx gac  # LLM으로 생성 및 커밋
 
 ## 주요 기능
 
-### **33+ 지원되는 프로바이더**
+### **35+ 지원되는 프로바이더**
 
 - **Anthropic** • **Azure OpenAI** • **Cerebras** • **ChatGPT (OAuth)** • **Chutes.ai** • **Claude Code (OAuth)**
 - **Crof.ai** • **DeepInfra** • **DeepSeek** • **Fireworks** • **Gemini** • **GitHub Copilot (OAuth)** • **Groq**

@@ -48,7 +48,7 @@ uvx gac  # LLM के साथ जेनरेट और कमिट करे
 
 ## मुख्य विशेषताएं
 
-### **33+ समर्थित प्रदाता**
+### **35+ समर्थित प्रदाता**
 
 - **Anthropic** • **Azure OpenAI** • **Cerebras** • **ChatGPT (OAuth)** • **Chutes.ai** • **Claude Code (OAuth)**
 - **Crof.ai** • **DeepInfra** • **DeepSeek** • **Fireworks** • **Gemini** • **GitHub Copilot (OAuth)** • **Groq**

@@ -48,7 +48,7 @@ uvx gac  # Gere e envie commit com LLM
 
 ## Recursos Principais
 
-### **33+ Provedores suportados**
+### **35+ Provedores suportados**
 
 - **Anthropic** • **Azure OpenAI** • **Cerebras** • **ChatGPT (OAuth)** • **Chutes.ai** • **Claude Code (OAuth)**
 - **Crof.ai** • **DeepInfra** • **DeepSeek** • **Fireworks** • **Gemini** • **GitHub Copilot (OAuth)** • **Groq**

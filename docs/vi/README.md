@@ -48,7 +48,7 @@ Chỉ vậy thôi! Xem lại thông điệp đã tạo và xác nhận bằng `y
 
 ## Tính Năng Chính
 
-### **33+ Nhà Cung Cấp Hỗ Trợ**
+### **35+ Nhà Cung Cấp Hỗ Trợ**
 
 - **Anthropic** • **Azure OpenAI** • **Cerebras** • **ChatGPT (OAuth)** • **Chutes.ai** • **Claude Code (OAuth)**
 - **Crof.ai** • **DeepInfra** • **DeepSeek** • **Fireworks** • **Gemini** • **GitHub Copilot (OAuth)** • **Groq**

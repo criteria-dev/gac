@@ -48,7 +48,7 @@ uvx gac  # Сгенерируйте и закоммитьте с помощью 
 
 ## Основные функции
 
-### **33+ Поддерживаемые провайдеры**
+### **35+ Поддерживаемые провайдеры**
 
 - **Anthropic** • **Azure OpenAI** • **Cerebras** • **ChatGPT (OAuth)** • **Chutes.ai** • **Claude Code (OAuth)**
 - **Crof.ai** • **DeepInfra** • **DeepSeek** • **Fireworks** • **Gemini** • **GitHub Copilot (OAuth)** • **Groq**

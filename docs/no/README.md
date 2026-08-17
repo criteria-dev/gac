@@ -48,7 +48,7 @@ Det er alt! Gjennomgå den genererte meldingen og bekreft med `y`.
 
 ## Nøkkelegenskaper
 
-### **33+ Støttede leverandører**
+### **35+ Støttede leverandører**
 
 - **Anthropic** • **Azure OpenAI** • **Cerebras** • **ChatGPT (OAuth)** • **Chutes.ai** • **Claude Code (OAuth)**
 - **Crof.ai** • **DeepInfra** • **DeepSeek** • **Fireworks** • **Gemini** • **GitHub Copilot (OAuth)** • **Groq**

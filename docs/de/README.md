@@ -48,7 +48,7 @@ Das ist alles! Überprüfen Sie die generierte Nachricht und bestätigen Sie mit
 
 ## Hauptfunktionen
 
-### **33+ Unterstützte Provider**
+### **35+ Unterstützte Provider**
 
 - **Anthropic** • **Azure OpenAI** • **Cerebras** • **ChatGPT (OAuth)** • **Chutes.ai** • **Claude Code (OAuth)**
 - **Crof.ai** • **DeepInfra** • **DeepSeek** • **Fireworks** • **Gemini** • **GitHub Copilot (OAuth)** • **Groq**

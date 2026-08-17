@@ -48,7 +48,7 @@ uvx gac  # Genera y hace commit con LLM
 
 ## Características principales
 
-### **33+ Proveedores soportados**
+### **35+ Proveedores soportados**
 
 - **Anthropic** • **Azure OpenAI** • **Cerebras** • **ChatGPT (OAuth)** • **Chutes.ai** • **Claude Code (OAuth)**
 - **Crof.ai** • **DeepInfra** • **DeepSeek** • **Fireworks** • **Gemini** • **GitHub Copilot (OAuth)** • **Groq**

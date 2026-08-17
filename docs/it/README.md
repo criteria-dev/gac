@@ -48,7 +48,7 @@ Questo è tutto! Rivedi il messaggio generato e conferma con `y`.
 
 ## Funzionalità Principali
 
-### **33+ Provider supportati**
+### **35+ Provider supportati**
 
 - **Anthropic** • **Azure OpenAI** • **Cerebras** • **ChatGPT (OAuth)** • **Chutes.ai** • **Claude Code (OAuth)**
 - **Crof.ai** • **DeepInfra** • **DeepSeek** • **Fireworks** • **Gemini** • **GitHub Copilot (OAuth)** • **Groq**

@@ -48,7 +48,7 @@ uvx gac  # LLMで生成してコミット
 
 ## 主な機能
 
-### **33+ 対応プロバイダ**
+### **35+ 対応プロバイダ**
 
 - **Anthropic** • **Azure OpenAI** • **Cerebras** • **ChatGPT (OAuth)** • **Chutes.ai** • **Claude Code (OAuth)**
 - **Crof.ai** • **DeepInfra** • **DeepSeek** • **Fireworks** • **Gemini** • **GitHub Copilot (OAuth)** • **Groq**

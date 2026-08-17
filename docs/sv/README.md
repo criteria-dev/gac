@@ -48,7 +48,7 @@ Det är allt! Granska det genererade meddelandet och bekräfta med `y`.
 
 ## Nyckelfunktioner
 
-### **33+ Stödda Leverantörer**
+### **35+ Stödda Leverantörer**
 
 - **Anthropic** • **Azure OpenAI** • **Cerebras** • **ChatGPT (OAuth)** • **Chutes.ai** • **Claude Code (OAuth)**
 - **Crof.ai** • **DeepInfra** • **DeepSeek** • **Fireworks** • **Gemini** • **GitHub Copilot (OAuth)** • **Groq**

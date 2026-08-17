@@ -48,7 +48,7 @@ uvx gac  # 使用 LLM 生成並提交
 
 ## 核心特性
 
-### **支援的 33+ 服務提供商**
+### **支援的 35+ 服務提供商**
 
 - **Anthropic** • **Azure OpenAI** • **Cerebras** • **ChatGPT (OAuth)** • **Chutes.ai** • **Claude Code (OAuth)**
 - **Crof.ai** • **DeepInfra** • **DeepSeek** • **Fireworks** • **Gemini** • **GitHub Copilot (OAuth)** • **Groq**

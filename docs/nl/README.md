@@ -48,7 +48,7 @@ Dat is alles! Beoordeel het gegenereerde bericht en bevestig met `y`.
 
 ## Belangrijkste Functies
 
-### **33+ Ondersteunde providers**
+### **35+ Ondersteunde providers**
 
 - **Anthropic** • **Azure OpenAI** • **Cerebras** • **ChatGPT (OAuth)** • **Chutes.ai** • **Claude Code (OAuth)**
 - **Crof.ai** • **DeepInfra** • **DeepSeek** • **Fireworks** • **Gemini** • **GitHub Copilot (OAuth)** • **Groq**
