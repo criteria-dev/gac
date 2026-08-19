@@ -761,5 +761,6 @@ GAC_DISCORD_WEBHOOK_URL='https://discord.com/api/webhooks/XXXX/YYYY'
 - For GitHub Copilot setup, see [docs/GITHUB_COPILOT.md](GITHUB_COPILOT.md)
 - For troubleshooting and advanced tips, see [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md)
 - For installation and configuration, see [README.md#installation-and-configuration](README.md#installation-and-configuration)
+  - For provider configuration, see [docs/PROVIDERS.md](PROVIDERS.md)
 - To contribute, see [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md)
 - License information: [LICENSE](LICENSE)
